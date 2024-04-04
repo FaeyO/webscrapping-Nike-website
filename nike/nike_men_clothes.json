@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Nike Sportswear Tech Fleece Reimagined",
+        "price": "$125",
+        "category": "Men's Oversized Short-Sleeve Sweatshirt",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-reimagined-mens-oversized-short-sleeve-sweatshirt-Nt1hVj/FB8165-133",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2e05fe50-d486-471a-9ce3-2a3febe8942d/sportswear-tech-fleece-reimagined-mens-oversized-short-sleeve-sweatshirt-Nt1hVj.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece Reimagined",
+        "price": "$165",
+        "category": "Men's Loose Fit Open Hem Sweatpants",
+        "color": "5 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-reimagined-mens-loose-fit-open-hem-sweatpants-mv6qRL/FB8163-010",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e83a1021-13f1-4b45-b0c8-5eca14fd6632/sportswear-tech-fleece-reimagined-mens-loose-fit-open-hem-sweatpants-mv6qRL.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece Reimagined",
+        "price": "$200",
+        "category": "Men's Oversized Shacket",
+        "color": "3 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-reimagined-mens-oversized-shacket-8rJjT9/FB8167-247",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3f402265-4dd8-4356-a68b-8874574d854a/sportswear-tech-fleece-reimagined-mens-oversized-shacket-8rJjT9.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece Reimagined",
+        "price": "$125",
+        "category": "Men's Oversized Turtleneck Sweatshirt",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-reimagined-mens-oversized-turtleneck-sweatshirt-Qz63dT/FB8169-133",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/77160c0f-c1e7-43bd-869b-442eaf858a2c/sportswear-tech-fleece-reimagined-mens-oversized-turtleneck-sweatshirt-Qz63dT.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece Reimagined",
+        "price": "$300",
+        "category": "Men's Loose Fit Trench Coat",
+        "color": "3 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-reimagined-mens-loose-fit-trench-coat-9hVvnb/FN0601-237",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b71d0a17-5501-4a86-a968-8e654b8e2396/sportswear-tech-fleece-reimagined-mens-loose-fit-trench-coat-9hVvnb.png"
+    },
+    {
+        "name": null,
+        "price": null,
+        "category": null,
+        "color": null,
+        "product_url": null,
+        "image_link": "None"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$115",
+        "category": "Men's Crew",
+        "color": "6 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-crew-xN0gwb/FB7916-010",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1e5862db-88a4-40d7-b0c9-ce83ea4611c6/sportswear-tech-fleece-mens-crew-xN0gwb.png"
+    },
+    {
+        "name": "Nike Max90",
+        "price": "$45",
+        "category": "Men's Basketball T-Shirt",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/max90-mens-basketball-t-shirt-5mh2Z5/FJ2304-480",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b625c2fd-4bcc-4e3a-bd98-59d9604452de/max90-mens-basketball-t-shirt-5mh2Z5.png"
+    },
+    {
+        "name": "Nike",
+        "price": "$110",
+        "category": "Men's Lightweight Basketball Pants",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/mens-lightweight-basketball-pants-sQ641M/FB6972-480",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c46b7ad2-1fbc-4fc7-bbf9-a4f773534b82/mens-lightweight-basketball-pants-sQ641M.png"
+    },
+    {
+        "name": "Nike Dri-FIT DNA",
+        "price": "$95",
+        "category": "Men's Basketball Jersey",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/dri-fit-dna-mens-basketball-jersey-HdzFgq/FB7046-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7f4f46b5-e763-4e16-b5c7-5e54aa217aa4/dri-fit-dna-mens-basketball-jersey-HdzFgq.png"
+    },
+    {
+        "name": "Nike Dri-FIT DNA+",
+        "price": "$95",
+        "category": "Men's 8\" Basketball Shorts",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/dri-fit-dna-mens-8-basketball-shorts-HHRlMR/FB7010-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cde20ffd-8e7e-4f91-b9d7-2bcd639f6aed/dri-fit-dna-mens-8-basketball-shorts-HHRlMR.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece Windrunner",
+        "price": "$145",
+        "category": "Men's Full-Zip Hoodie",
+        "color": "11 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-windrunner-mens-full-zip-hoodie-rznlBf/FB7921-121",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f819373a-e74b-440b-a6a4-8d78bd225b99/sportswear-tech-fleece-windrunner-mens-full-zip-hoodie-rznlBf.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$125",
+        "category": "Men's Slim Fit Joggers",
+        "color": "11 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-slim-fit-joggers-vWvCT5/FB8002-121",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a4cbe4d5-558d-4453-83dd-af992fe3508a/sportswear-tech-fleece-mens-slim-fit-joggers-vWvCT5.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$155",
+        "category": "Men's Bomber Jacket",
+        "color": "3 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-bomber-jacket-rXx6mF/FB8008-473",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ae87cb49-cc9a-4b87-b108-5d4926b47169/sportswear-tech-fleece-mens-bomber-jacket-rXx6mF.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$95",
+        "category": "Men's Shorts",
+        "color": "7 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-shorts-jbdtpn/FB8171-473",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/074827d4-6798-4dc1-ae55-672728894ac4/sportswear-tech-fleece-mens-shorts-jbdtpn.png"
+    },
+    {
+        "name": "Nike Dri-FIT",
+        "price": "$40",
+        "category": "Men's Running T-Shirt",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/dri-fit-mens-running-t-shirt-f8zkr4/FJ2358-113",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/645c5c46-7afe-4fad-9b5e-a01e317b9c72/dri-fit-mens-running-t-shirt-f8zkr4.png"
+    },
+    {
+        "name": "Nike Dri-FIT Stride Kipchoge",
+        "price": "$70",
+        "category": "Men's 7\" Brief-Lined Running Shorts",
+        "color": "1 Color",
+        "product_url": "https://www.nike.com/t/dri-fit-stride-kipchoge-mens-7-brief-lined-running-shorts-wLwp0f/FB7063-673",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c78b4225-cf67-4421-b718-7575640cde85/dri-fit-stride-kipchoge-mens-7-brief-lined-running-shorts-wLwp0f.png"
+    },
+    {
+        "name": "Nike Primary",
+        "price": "$55",
+        "category": "Men's Dri-FIT Versatile Tank",
+        "color": "10 Colors",
+        "product_url": "https://www.nike.com/t/primary-mens-dri-fit-versatile-tank-RcQ41g/DV9833-451",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b070f695-5549-477d-b676-c23f12ffea22/primary-mens-dri-fit-versatile-tank-RcQ41g.png"
+    },
+    {
+        "name": "Nike Form",
+        "price": "$45",
+        "category": "Men's Dri-FIT 7\" Unlined Versatile Shorts",
+        "color": "7 Colors",
+        "product_url": "https://www.nike.com/t/form-mens-dri-fit-7-unlined-versatile-shorts-q3j14R/DV9857-068",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/42d5f072-0482-4c31-bde3-674dbb99a0a9/form-mens-dri-fit-7-unlined-versatile-shorts-q3j14R.png"
+    },
+    {
+        "name": "Nike Primary",
+        "price": "$44.97",
+        "category": "Men's Dri-FIT Short-Sleeve Versatile Top",
+        "color": "11 Colors",
+        "product_url": "https://www.nike.com/t/primary-mens-dri-fit-short-sleeve-versatile-top-XK77j1/DV9831-655",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3824b121-5e90-41c4-8941-d227dfd43222/primary-mens-dri-fit-short-sleeve-versatile-top-XK77j1.png"
+    },
+    {
+        "name": "Nike Unlimited",
+        "price": "$60",
+        "category": "Men's Dri-FIT 5\" Unlined Versatile Shorts",
+        "color": "13 Colors",
+        "product_url": "https://www.nike.com/t/unlimited-mens-dri-fit-5-unlined-versatile-shorts-nlD0tf/DV9336-655",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/794e7475-4452-4618-b901-be926a7f5635/unlimited-mens-dri-fit-5-unlined-versatile-shorts-nlD0tf.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$120",
+        "category": "Men's Pullover Hoodie",
+        "color": "3 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-pullover-hoodie-gj7srq/FB8016-063",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b27507d4-0278-4b65-9176-8c0cf60e8500/sportswear-tech-fleece-mens-pullover-hoodie-gj7srq.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$130",
+        "category": "Men's Open-Hem Sweatpants",
+        "color": "5 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-open-hem-sweatpants-914LdQ/FB8012-063",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/060af92e-07a6-4333-a7a6-24afa21de595/sportswear-tech-fleece-mens-open-hem-sweatpants-914LdQ.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$135",
+        "category": "Men's 1/2-Zip Sweatshirt",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-1-2-zip-sweatshirt-ZH4zL2/FB7998-473",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c6ad69a5-4844-402a-a9b1-748d6f53aeeb/sportswear-tech-fleece-mens-1-2-zip-sweatshirt-ZH4zL2.png"
+    },
+    {
+        "name": "Nike Sportswear Tech Fleece",
+        "price": "$145",
+        "category": "Men's Loose Fit Tear-Away Pants",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/sportswear-tech-fleece-mens-loose-fit-tear-away-pants-zj3S5z/FB8014-473",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/26c16d5d-8ce0-4df1-bdcb-61e420f95358/sportswear-tech-fleece-mens-loose-fit-tear-away-pants-zj3S5z.png"
+    },
+    {
+        "name": null,
+        "price": null,
+        "category": null,
+        "color": null,
+        "product_url": null,
+        "image_link": "None"
+    }
+]

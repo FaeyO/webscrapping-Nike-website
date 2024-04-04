@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Nike Dunk Low Retro",
+        "price": "$110",
+        "category": "Men's Shoes",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/dunk-low-retro-mens-shoes-76KnBL/DV0831-104",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/48ef0c32-8a7b-4588-8256-81a8c731cd16/dunk-low-retro-mens-shoes-76KnBL.png"
+    },
+    {
+        "name": "Nike Dunk Low By You",
+        "price": "$150",
+        "category": "Custom Shoes",
+        "color": "6 Colors",
+        "product_url": "https://www.nike.com/u/custom-nike-dunk-low-by-you-shoes-10001477/9708435393",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b4a93d41-c41c-42ab-8294-3823695e0086/custom-nike-dunk-low-by-you-shoes.png"
+    },
+    {
+        "name": "Sabrina 1 \"Spark\"",
+        "price": "$130",
+        "category": "Basketball Shoes",
+        "color": null,
+        "product_url": "https://www.nike.com/t/sabrina-1-spark-basketball-shoes-f8jr2H/FQ3381-501",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/40d5a277-2ea8-4df8-9c54-fe3ae3dcf803/sabrina-1-spark-basketball-shoes-f8jr2H.png"
+    },
+    {
+        "name": "KD16",
+        "price": "$150",
+        "category": "Basketball Shoes",
+        "color": "3 Colors",
+        "product_url": "https://www.nike.com/t/kd16-basketball-shoes-H3gcDG/DV2917-401",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d5eb2104-3552-41c8-94f9-db2580a955c0/kd16-basketball-shoes-H3gcDG.png"
+    },
+    {
+        "name": "Nike InfinityRN 4",
+        "price": "$160",
+        "category": "Men's Road Running Shoes",
+        "color": "9 Colors",
+        "product_url": "https://www.nike.com/t/infinityrn-4-mens-road-running-shoes-4hKwJW/DR2665-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fb5ad585-ec9c-4ab6-ab6f-b0b6b50235a4/infinityrn-4-mens-road-running-shoes-4hKwJW.png"
+    },
+    {
+        "name": null,
+        "price": null,
+        "category": null,
+        "color": null,
+        "product_url": null,
+        "image_link": "None"
+    },
+    {
+        "name": "Nike Invincible 3",
+        "price": "$180",
+        "category": "Men's Road Running Shoes",
+        "color": "7 Colors",
+        "product_url": "https://www.nike.com/t/invincible-3-mens-road-running-shoes-4xHjXL/DR2615-002",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e9f8c612-0b6b-4e4e-aaf8-af0d8b88b40c/invincible-3-mens-road-running-shoes-4xHjXL.png"
+    },
+    {
+        "name": "Nike Air Max Pulse",
+        "price": "$150",
+        "category": "Men's Shoes",
+        "color": "6 Colors",
+        "product_url": "https://www.nike.com/t/air-max-pulse-mens-shoes-DWTVpN/FN7459-002",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/61051bd6-196b-4afb-9946-cdd2c30bf658/air-max-pulse-mens-shoes-DWTVpN.png"
+    },
+    {
+        "name": "Nike Air Force 1 '07",
+        "price": "$115",
+        "category": "Men's Shoes",
+        "color": "5 Colors",
+        "product_url": "https://www.nike.com/t/air-force-1-07-mens-shoes-rXkGJX/DV0788-105",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3f7ee856-f184-497a-9d4a-96e7c7380dab/air-force-1-07-mens-shoes-rXkGJX.png"
+    },
+    {
+        "name": "Nike Lunar Force 1",
+        "price": "$185",
+        "category": "Men's Duckboot",
+        "color": "1 Color",
+        "product_url": "https://www.nike.com/t/lunar-force-1-mens-duckboot-0Q9Vd2/DZ5320-001",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/89a91ebd-3e3d-4550-b10d-561f6ebba30a/lunar-force-1-mens-duckboot-0Q9Vd2.png"
+    },
+    {
+        "name": "Nike Air Pegasus '89",
+        "price": "$105",
+        "category": "Men's Shoes",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/air-pegasus-89-mens-shoes-wKqcHV/FB8900-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/86abdf06-d919-4aab-8c1b-e59c033d08b8/air-pegasus-89-mens-shoes-wKqcHV.png"
+    },
+    {
+        "name": "Nike P-6000",
+        "price": "$120",
+        "category": "Shoes",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/p-6000-shoes-XkgpKW/FN7509-029",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/87109660-6b0e-441b-b93a-c6a8c6988bc9/p-6000-shoes-XkgpKW.png"
+    },
+    {
+        "name": "Nike Tech Hera",
+        "price": "$110",
+        "category": "Men's Shoes",
+        "color": "5 Colors",
+        "product_url": "https://www.nike.com/t/tech-hera-mens-shoes-kd77nb/FJ9532-101",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/909089ee-5c78-4925-a1fb-5de52e337930/tech-hera-mens-shoes-kd77nb.png"
+    },
+    {
+        "name": "Nike Air Force 1 '07",
+        "price": "$110",
+        "category": "Men's Shoes",
+        "color": "4 Colors",
+        "product_url": "https://www.nike.com/t/air-force-1-07-mens-shoes-jBrhbr/CW2288-111",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/air-force-1-07-mens-shoes-jBrhbr.png"
+    },
+    {
+        "name": "Nike Blazer Mid '77 Vintage",
+        "price": "$105",
+        "category": "Men's Shoes",
+        "color": "6 Colors",
+        "product_url": "https://www.nike.com/t/blazer-mid-77-vintage-mens-shoes-nw30B2/BQ6806-124",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/de53aa36-9cec-421f-8978-4ada55821881/blazer-mid-77-vintage-mens-shoes-nw30B2.png"
+    },
+    {
+        "name": "Nike Air Max 1",
+        "price": "$140",
+        "category": "Men's Shoes",
+        "color": "2 Colors",
+        "product_url": "https://www.nike.com/t/air-max-1-mens-shoes-9V62CZ/FD9082-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0fd1487b-306c-4b70-a96a-cd6ac99e7d61/air-max-1-mens-shoes-9V62CZ.png"
+    },
+    {
+        "name": "Nike Air Huarache",
+        "price": "$125",
+        "category": "Men's Shoes",
+        "color": "11 Colors",
+        "product_url": "https://www.nike.com/t/air-huarache-mens-shoes-JppwBb/DD1068-008",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d4307d26-7193-4f07-b10a-3beb37b3fd88/air-huarache-mens-shoes-JppwBb.png"
+    },
+    {
+        "name": "Nike Air Max 270",
+        "price": "$160",
+        "category": "Men's Shoes",
+        "color": "6 Colors",
+        "product_url": "https://www.nike.com/t/air-max-270-mens-shoes-KkLcGR/AH8050-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/209889d9-4910-4f06-9d07-18afa558b566/air-max-270-mens-shoes-KkLcGR.png"
+    },
+    {
+        "name": "Nike Air Max 90",
+        "price": "$130",
+        "category": "Men's Shoes",
+        "color": "5 Colors",
+        "product_url": "https://www.nike.com/t/air-max-90-mens-shoes-6n3vKB/CN8490-001",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/baa2520d-49da-4a27-ab2c-7fb133fb3008/air-max-90-mens-shoes-6n3vKB.png"
+    },
+    {
+        "name": "Nike Dunk Low",
+        "price": "$120",
+        "category": "Men's Shoes",
+        "color": "1 Color",
+        "product_url": "https://www.nike.com/t/dunk-low-mens-shoes-C0N2DF/FN6881-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f758267c-ee83-4a7d-83cc-4b045b77ddda/dunk-low-mens-shoes-C0N2DF.png"
+    },
+    {
+        "name": "Nike Dunk Low Premium",
+        "price": "$120",
+        "category": "Men's Shoes",
+        "color": "1 Color",
+        "product_url": "https://www.nike.com/t/dunk-low-premium-mens-shoes-HHCWhk/FN6834-412",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f2688aab-0e11-4343-8b64-3713a2ea568d/dunk-low-premium-mens-shoes-HHCWhk.png"
+    },
+    {
+        "name": "Nike Ultrafly",
+        "price": "$260",
+        "category": "Men's Trail Running Shoes",
+        "color": "1 Color",
+        "product_url": "https://www.nike.com/t/ultrafly-mens-trail-running-shoes-K8vfLD/DX1978-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6a0ec91e-e95c-46bd-967d-8fc92cda9e7b/ultrafly-mens-trail-running-shoes-K8vfLD.png"
+    },
+    {
+        "name": "Nike Pegasus 40 \"Eliud Kipchoge\"",
+        "price": "$130",
+        "category": "Road Running Shoes",
+        "color": "16 Colors",
+        "product_url": "https://www.nike.com/t/pegasus-40-eliud-kipchoge-road-running-shoes-mVJdmS/FJ0686-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/84cdecfe-c952-432b-9e01-b22126cfe197/pegasus-40-eliud-kipchoge-road-running-shoes-mVJdmS.png"
+    },
+    {
+        "name": "Ja 1 \"Wet Cement\"",
+        "price": "$110",
+        "category": "Basketball Shoes",
+        "color": "3 Colors",
+        "product_url": "https://www.nike.com/t/ja-1-wet-cement-basketball-shoes-bCx2W3/DR8785-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5615d881-6725-422a-b97b-82835fa62411/ja-1-wet-cement-basketball-shoes-bCx2W3.png"
+    },
+    {
+        "name": "Freak 5",
+        "price": "$130",
+        "category": "Basketball Shoes",
+        "color": "5 Colors",
+        "product_url": "https://www.nike.com/t/freak-5-basketball-shoes-jZzrx4/DX4985-100",
+        "image_link": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/95ad0a68-0e88-4023-b4ab-4c7482eea9d4/freak-5-basketball-shoes-jZzrx4.png"
+    },
+    {
+        "name": null,
+        "price": null,
+        "category": null,
+        "color": null,
+        "product_url": null,
+        "image_link": "None"
+    }
+]

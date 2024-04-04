@@ -1,0 +1,13 @@
+setup.py
+nike/__init__.py
+nike/items.py
+nike/middlewares.py
+nike/pipelines.py
+nike/settings.py
+nike/spiders/__init__.py
+nike/spiders/men_shoes.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
